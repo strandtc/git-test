@@ -2,4 +2,4 @@ Testing 123
 
 This is a project in git
 
-3rd change
+3rd change -- appended
